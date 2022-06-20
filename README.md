@@ -4,6 +4,10 @@
 
 ![image](https://user-images.githubusercontent.com/43001724/174491399-8e0e64ae-9cbd-4d12-a8a1-a6bc2458209c.png)
 
+In the figure below, you can check the pins and functionalities.
+![image](https://user-images.githubusercontent.com/43001724/174532786-14250e63-a30d-4b7b-92fc-cd01a0ee1855.png)
+
+
 
 See [Getting Started with the Raspberry Pi Pico](https://rptl.io/pico-get-started) and the README in the [pico-sdk](https://github.com/raspberrypi/pico-sdk) for information
 on getting up and running.
